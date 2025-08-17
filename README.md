@@ -1,3 +1,7 @@
+# NAME: M.SREYAS
+# REGISTER NO: 212224040323
+
+
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -86,9 +90,24 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-### CLIENT OUTPUT:
 
-### SERVER OUTPUT:
+<img width="731" height="831" alt="image" src="https://github.com/user-attachments/assets/cf729b24-37a9-4ac7-a2e2-d18d077fb07d" />
+
+
+
+
+
+
+
+
+
+<img width="634" height="868" alt="image" src="https://github.com/user-attachments/assets/1c577661-f8b2-451b-b743-152e7beaebfc" />
+
+
+
+
+
+
 
 ## RESULT:
 The program is executed succesfully
